@@ -1,11 +1,11 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
-  "difficulty": "beginner",
+  "title": "formation Kubernetes",
+  "description": "",
+  "difficulty": "débutant",
   "time": "2 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Lancement d'une commande",
       "text": "step1.md"
     }],
     "intro": {
